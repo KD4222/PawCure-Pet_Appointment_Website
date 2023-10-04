@@ -15,7 +15,7 @@ import avatarIcon from "../assets/images/avatar-icon.png";
 import DoctorList from "./Doctors/DoctorList";
 import FaqList from "../components/Faq/FaqList";
 import Testimonial from "../components/Testimonial/Testimonial";
-import About from '../components/About/About'
+import About from "../components/About/About";
 const Home = () => {
   return (
     <>
@@ -32,8 +32,8 @@ const Home = () => {
                   longer life.
                 </h1>
                 <p className="text__para">
-                  With a team of dedicated professionals and a commitment to
-                  excellence, we're here to cure those paw-sitive moments in
+                  ISHIKA With a team of dedicated professionals and a commitment
+                  to excellence, we're here to cure those paw-sitive moments in
                   your pet's life. Discover the pawcure difference today!
                 </p>
                 <button className="btn">Request an Appointment</button>
